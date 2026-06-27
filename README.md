@@ -25,3 +25,17 @@
   </ul>
 </div>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="left" width = 50px></picture> About me  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  align="right" width = 50px></picture></div>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+
+
+<br>
